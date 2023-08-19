@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "test_srver",
+  "version": "1.0.0",
+  "description": "this is will create a nodejs backend server",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
